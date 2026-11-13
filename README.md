@@ -113,9 +113,9 @@ Self-hosted, transparent, community-driven billing engines and recurring invoice
 
 ### ⭐ Open-Source Solutions by Community Adoption
 
-*The table below is sorted by **GitHub Stars (Descending)**. Star badges link directly to each repository's stargazers page.*
+*The table below is sorted by **GitHub_Stars (Descending)**. Stars_Badges link directly to each repository's stargazers page.*
 
-| Rank | 📦 Project | 🌟 GitHub Stars Badge | 💻 Tech Stack | 📜 License | 🔌 Payment Gateways | ⚡ Core Highlights |
+| Rank | 📦 Project | 🌟 GitHub_Stars_Badge | 💻 Tech Stack | 📜 License | 🔌 Payment Gateways | ⚡ Core Highlights |
 |:---:|:---|:---:|:---|:---|:---|:---|
 | 1 | **[Hyperswitch](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Rust | Apache-2.0 | 50+ Gateways (Stripe, Adyen, PayPal, etc.) | High-performance payment orchestration & subscription payment routing |
 | 2 | **[Open SaaS](https://github.com/wasp-lang/open-saas)** | [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas?style=social&color=white)](https://github.com/wasp-lang/open-saas/stargazers) | React / Node.js / Wasp | MIT | Stripe / Lemon Squeezy | Full-stack open-source SaaS starter with automated subscription billing |
@@ -257,7 +257,7 @@ Contributions are warmly welcome! If you know of an outstanding open-source recu
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive branch: `git checkout -b add-my-billing-tool`.
-3. 📝 Update `README.md` with proper links, stack info, license, and star badges.
+3. 📝 Update `README.md` with proper links, stack info, license, and Stars_Badges.
 4. 🚀 Push to your branch and submit a Pull Request!
 
 ---
