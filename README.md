@@ -4,10 +4,10 @@
 
 # 🚀 Awesome Recurring Billing & Subscription Management
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Recurring-Billing-Subscription-Management/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Recurring-Billing-Subscription-Management/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Recurring-Billing-Subscription-Management/graphs/commit-activity) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated directory of top-tier Recurring Billing, Subscription Management platforms, and Usage-Based Metering engines.**  
 > Explore commercial SaaS powerhouses, Merchant of Record (MoR) solutions, and self-hosted open-source alternatives to orchestrate plans, automated invoicing, dunning, payment gateways, and revenue recognition.
@@ -25,6 +25,8 @@
   - [Detailed Open-Source Profiles](#-detailed-open-source-profiles)
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🎯 Choosing the Right Billing Architecture](#-choosing-the-right-billing-architecture)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -227,6 +229,25 @@ Self-hosted, transparent, community-driven billing engines and recurring invoice
                                        • Chargebee (Complex Catalogs)       • Kill Bill (Permissive Java)
                                        • Recurly (Dunning & Recovery)       • Polar / Flexprice (AI & Devs)
 ```
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Recurring-Billing-Subscription-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Recurring-Billing-Subscription-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for visiting and using this curated resource! If this list has saved you time, helped you evaluate billing infrastructure, or inspired your subscription project architecture, please consider showing your support:
+
+- ⭐ **Star this repository** on GitHub to boost its visibility and reach!
+- 🍴 **Fork and contribute** tools, libraries, updates, or fixes.
+- 📢 **Share this guide** on social media, developer communities, and with your engineering peers.
+- ☕ **Buy me a coffee & sponsor my open-source work:** Visit my **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)** to support ongoing maintenance and new guides!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
